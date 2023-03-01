@@ -1,0 +1,24 @@
+HTML Basic Tag
+
+
+Tag	              -    Description
+
+<!DOCTYPE>        -	   Defines the document type
+<html>	          -    Defines an HTML document
+<head>	          -    Contains metadata/information for the document
+<title>	          -    Defines a title for the document
+<body>	          -    Defines the document's body
+<h1> to <h6>	  -    Defines HTML headings
+<p>	              -    Defines a paragraph
+<br>              -    Inserts a single line break
+<hr>              -    Defines a thematic change in the content
+<!--...-->	      -    Defines a comment
+<ul>	          -    Defines an unordered list
+<ol>	          -    Defines an ordered list
+<li>	          -    Defines a list item
+<table>	          -    Defines a table
+<th>	          -    Defines a header cell in a table
+<tr>	          -    Defines a row in a table
+<td>	          -    Defines a cell in a table
+<thead>	          -    Groups the header content in a table
+<tbody>	          -    Groups the body content in a table
